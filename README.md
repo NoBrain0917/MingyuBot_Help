@@ -105,5 +105,5 @@
 사용자가 해당 단어가 들어간 말을 할시 자동 삭제가 됩니다.
 
 # 메인 개발자
-![쿨칠](https://cdn.discordapp.com/avatars/390747532172460033/a_7520d548b3b379ee94fa5ed366dfbef1.gif?size=64)<br>Pengu#3568
+![쿨칠](https://cdn.discordapp.com/avatars/390747532172460033/a_7520d548b3b379ee94fa5ed366dfbef1.gif?size=64)<br>
 
