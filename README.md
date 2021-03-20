@@ -106,8 +106,4 @@
 
 # 메인 개발자
 ![쿨칠](https://cdn.discordapp.com/avatars/390747532172460033/59f626f1cc772da759433d66deb62857.png?size=256)<br>Pengu#3568
-# 서브 개발자
-![민규](https://cdn.discordapp.com/avatars/350630887337230337/22ec41bb9c3136ee89af5e38b4919d96.png?size=256)<br>민규만두#0035<br>
-![소금](https://discord.com/assets/dd4dbc0016779df1378e7812eabaa04d.png)<br>nua#2722<br>
-![시르](https://cdn.discordapp.com/avatars/679332342485221406/30deafd9dd6c8a516a66e1c648385bda.png?size=256)<br>kite Ho#4128
 
